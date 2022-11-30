@@ -1,5 +1,5 @@
 # Ejercicio-3
-#Creamos el fichero con un commit, luego añadimos otro:
+# Creamos el fichero con un commit, luego añadimos otro:
 ![Captura web_1-12-2022_015_](https://user-images.githubusercontent.com/114684316/204926484-923c1701-5c97-4e68-b889-7f427d29103b.jpeg)
 # Comprobamos que se hayan hecho los cambios de la manera correcta:
 ![Captura web_1-12-2022_0246_](https://user-images.githubusercontent.com/114684316/204926674-abf044e4-9147-4fef-a3e0-316c2fbeda5a.jpeg)
